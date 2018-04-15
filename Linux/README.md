@@ -7,3 +7,5 @@ https://www.digitalocean.com/community/tutorials/como-instalar-java-con-apt-get-
 ```
 sudo apt-get install git
 ```  
+**- Instalar VirtualBox**  
+https://websiteforstudents.com/installing-virtualbox-5-2-ubuntu-17-04-17-10/
